@@ -26,7 +26,7 @@ In the db folder:
 - Run schema.sql in mySQL to create the database.
 - Run "npm run seeds" to add initial data.
 - Run the following command from the terminal to start the server  
-    - node server.js  
+    - npm run start  
       
 - body JSON for POST and PUT routes as follows:
     - /api/categories:  
@@ -46,4 +46,4 @@ In the db folder:
     }
 
 ## Example
-[Example video](https://drive.google.com/file/d/1BiyylLHP1qSGtjUXNfGgmIdBC3as4TR-/view) showing working routes in Insomnia.
+[Example video](https://drive.google.com/file/d/1bCNh1rtN-6NOtlcCt9_wBOq30iM_nS-x/view) showing working routes in Insomnia.
